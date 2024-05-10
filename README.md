@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/qWQqTHR/pneumonia-banner.png" alt="Pneumonia Detection Banner">
+  <img src="C:\parth\college docs\Projects\project healthcare\banner.png" alt="Pneumonia Detection Banner">
 </p>
 
 <h2 id="overview">🌅 Overview</h2>
