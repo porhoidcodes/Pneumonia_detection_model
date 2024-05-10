@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/your-username/pneumonia-detection"> alt="Pneumonia Detection" width="200"></a>
+  <a href="https://github.com/porhoidcodes/Pneumonia_detection_model.git"> Pneumonia Detection </a>
   <br>
   Pneumonia Detection from Chest X-Rays
   <br>
