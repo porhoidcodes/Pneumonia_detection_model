@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/your-username/pneumonia-detection"><img src="C:\parth\college docs\Projects\project healthcare\banner.png" alt="Pneumonia Detection" width="200"></a>
+  <a href="https://github.com/your-username/pneumonia-detection"> alt="Pneumonia Detection" width="200"></a>
   <br>
   Pneumonia Detection from Chest X-Rays
   <br>
