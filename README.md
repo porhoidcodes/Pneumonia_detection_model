@@ -43,11 +43,9 @@
 
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/pneumonia-detection.git</code></pre>
+    <pre><code>git clone https://github.com/porhoidcodes/Pneumonia_detection_model.git</code></pre>
   </li>
-  <li>Install the required dependencies:
-    <pre><code>pip install -r requirements.txt</code></pre>
-  </li>
+
   <li>Download the dataset and update the appropriate paths in the code.</li>
   <li>Train the model or load the pre-trained weights.</li>
   <li>Launch the Gradio interface to test the model with your own X-ray images.</li>
