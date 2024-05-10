@@ -51,7 +51,6 @@
   <li>Launch the Gradio interface to test the model with your own X-ray images.</li>
 </ol>
 
-<p>For detailed instructions and usage examples, please refer to the <a href="#"><strong>Documentation</strong></a>.</p>
 
 <h2 id="contributing">🤝 Contributing</h2>
 
