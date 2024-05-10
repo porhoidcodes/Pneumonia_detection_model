@@ -19,9 +19,7 @@
   <a href="#acknowledgments">Acknowledgments</a>
 </p>
 
-<p align="center">
-  <img src="C:\parth\college docs\Projects\project healthcare\banner.png" alt="Pneumonia Detection Banner">
-</p>
+
 
 <h2 id="overview">🌅 Overview</h2>
 
